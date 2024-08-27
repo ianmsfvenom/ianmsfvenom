@@ -9,14 +9,16 @@
 
 <div align="left">
 
-# About me
+
+<h1>🧑🏾 About me</h1>
 Hello 👋, my name is Ian Pablo!
 
-🎓 I'm 19 years old and I'm from Brazil <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" width="20"> and I'm currently a Systems Development student at SENAI. I'm a fullstack developer, I believe I've reached the level of a full programmer and I enjoy creating complete solutions from the front-end to the back-end. I'm always looking for new challenges to develop my skills and progress even further in my career.
+🎓 I'm 19 years old and I'm from Brazil<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" width="20"> and I'm currently a Systems Development student at SENAI. I'm a fullstack developer, I believe I've reached the level of a full programmer and I enjoy creating complete solutions from the front-end to the back-end. I'm always looking for new challenges to develop my skills and progress even further in my career.
 
+<br>
 
 <div>
-    <h1>Languages</h1>
+    <h1>💻 Languages</h1>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
@@ -26,7 +28,7 @@ Hello 👋, my name is Ian Pablo!
 <br>
 
 <div>
-    <h1>Frameworks and Librays</h1>
+    <h1>📚 Frameworks and Librays</h1>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
@@ -36,7 +38,7 @@ Hello 👋, my name is Ian Pablo!
 <br>
 
 <div>
-    <h1>Tools</h1>
+    <h1>🛠️ Tools</h1>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" /> 
@@ -47,7 +49,7 @@ Hello 👋, my name is Ian Pablo!
 <br>
 
 <div>
-    <h1>Skills</h1>
+    <h1>🔧 Skills</h1>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
@@ -59,7 +61,7 @@ Hello 👋, my name is Ian Pablo!
 <br>
 
 <div>
-    <h1>IDEs</h1>
+    <h1>👨‍💻 IDEs</h1>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
@@ -70,7 +72,7 @@ Hello 👋, my name is Ian Pablo!
 <br>
 
 <div>
-    <h1>Learning</h1>
+    <h1>🎓 Learning</h1>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="40" height="40"/>
@@ -80,10 +82,10 @@ Hello 👋, my name is Ian Pablo!
 <br>
 
 <div>
-<h1>Social Media</h1>
-<a href="https://www.instagram.com/__yyan.ts/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:ianpablosilvasouza129@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/ian-pablo-silva-souza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+    <h1>🌐Social Media</h1>
+    <a href="https://www.instagram.com/__yyan.ts/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href = "mailto:ianpablosilvasouza129@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/ian-pablo-silva-souza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 <br>
