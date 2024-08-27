@@ -91,7 +91,7 @@ Hello 👋, my name is Ian Pablo!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianmsfvenom&layout=donut-vertical&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ianmsfvenom&show_icons=true&theme=transparent)
 
 
 <br>
