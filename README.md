@@ -12,7 +12,7 @@
 # About me
 Hello 👋, my name is Ian Pablo!
 
-🎓 I'm 19 years old and I'm from Brazil <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" width="20"> and I'm currently a Systems Development student at Senai. I'm a fullstack developer, I believe I've reached the level of a full programmer and I enjoy creating complete solutions from the front-end to the back-end. I'm always looking for new challenges to develop my skills and progress even further in my career.
+🎓 I'm 19 years old and I'm from Brazil <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" width="20"> and I'm currently a Systems Development student at SENAI. I'm a fullstack developer, I believe I've reached the level of a full programmer and I enjoy creating complete solutions from the front-end to the back-end. I'm always looking for new challenges to develop my skills and progress even further in my career.
 
 
 <div>
